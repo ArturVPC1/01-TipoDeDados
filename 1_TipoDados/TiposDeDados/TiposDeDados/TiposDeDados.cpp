@@ -1,5 +1,6 @@
 // TiposDeDados.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+// COMENTEI AQUI PELA ATIVIDADE - 13/08
 
 #include <iostream>
 using namespace std;
